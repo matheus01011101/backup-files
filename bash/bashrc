@@ -100,14 +100,6 @@ fi
 #alias ll='ls -l'
 #alias la='ls -A'
 #alias l='ls -CF'
-alias atualizar-apt='sudo apt-get update'
-alias atualizar-sys='sudo apt-get upgrade'
-alias instalar-firefox="sudo apt-get install firefox"
-alias remover-firefox="sudo apt-get remove --purge firefox"
-alias autoremover="sudo apt-get autoremove"
-alias instalar-chromium="sudo apt-get install chromium"
-alias remover-chromium="sudo apt-get remove --purge chromium"
-alias limpar-apt="sudo apt-get clean"
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
